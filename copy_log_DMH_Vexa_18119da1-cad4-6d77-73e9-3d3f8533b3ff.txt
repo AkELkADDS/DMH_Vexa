@@ -1,0 +1,372 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+   Mon 05/19/2025  7:18:39.45 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\8ff8a68b-c6d2-4a41-bb36-ca42fba74129.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\b1f9fa3e-f5d7-4446-ba22-c7ea2f583135.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\bffcd7cb-d76c-413b-b7f5-8c00462d990e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\cfcaf199-3a21-4969-97d2-a1e91bc5498b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\ee2b2718-1928-48f6-8388-1b7d0bd8b963.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 16 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 5 
+ 
+[LOG] Total files found across all folders: 28 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff to Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using destination: Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:18:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\meta.lsx100%  
+	    New File  		   2.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\thumbnail.png 54%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    2.74 m    2.74 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           360131250 Bytes/sec.
+   Speed :           20606.875 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:18:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff to "Editor\Mods"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using destination: Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:18:44 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   40289	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    39.3 k    39.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            40289000 Bytes/sec.
+   Speed :            2305.355 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:18:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff to Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using destination: Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:18:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7798	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\meta.lsx100%  
+	    New File  		   2.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\GUI\metadata.lsf100%  
+	    New File  		    3121	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    2.75 m    2.75 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2892424000 Bytes/sec.
+   Speed :           165505.828 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:18:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff to Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using destination: Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:18:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   29703	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2669	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\8ff8a68b-c6d2-4a41-bb36-ca42fba74129.lsf100%  
+	    New File  		    2618	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\b1f9fa3e-f5d7-4446-ba22-c7ea2f583135.lsf100%  
+	    New File  		    2667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\bffcd7cb-d76c-413b-b7f5-8c00462d990e.lsf100%  
+	    New File  		    2620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\cfcaf199-3a21-4969-97d2-a1e91bc5498b.lsf100%  
+	    New File  		    2620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Content\[PAK]_DMH_Vexa\ee2b2718-1928-48f6-8388-1b7d0bd8b963.lsf100%  
+	    New File  		   51996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.xml100%  
+	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.xml100%  
+	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.xml100%  
+	    New File  		  290112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.GR2100%  
+	    New File  		     217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.xml100%  
+	    New File  		  289892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.GR2100%  
+	    New File  		     217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        13        13         1         0         0         0
+   Files :        16        16         0         0         0         0
+   Bytes :  1022.5 k  1022.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           104710300 Bytes/sec.
+   Speed :            5991.571 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:18:48 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 16 
+[DEBUG] Successfully copied files: 16 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 
+      Total files: 16 
+      Copied successfully: 16 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff to "Generated\Public"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[DEBUG] Using destination: Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:18:49 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   51996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.GR2100%  
+	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.GR2100%  
+	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.GR2100%  
+	    New File  		  290112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.GR2100%  
+	    New File  		  289892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_R.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        10        10         1         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :   979.6 k   979.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           100313600 Bytes/sec.
+   Speed :            5739.990 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:18:49 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 5 
+[DEBUG] Successfully copied files: 5 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff: 
+      Total files: 5 
+      Copied successfully: 5 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 16 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Vexa_18119da1-cad4-6d77-73e9-3d3f8533b3ff 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 5 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 28 
+[SUMMARY] Total files successfully copied: 56 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
